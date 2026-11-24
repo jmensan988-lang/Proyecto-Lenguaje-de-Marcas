@@ -6,12 +6,12 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
+  background-color: white;
+  color: black;
 }
 
 header {
-  background-color: #ebebeb;
+  background-color: white;
   color: white;
   padding: 15px 30px;
   display: flex;
@@ -58,10 +58,9 @@ article img {
 }
 
 footer {
-  background-color: #222;
+  background-color: black;
   color: white;
   text-align: center;
   padding: 15px;
   margin-top: 30px;
 }
-
